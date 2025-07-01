@@ -22,4 +22,4 @@ jobs:
       
 
       - name: Executando Testes
-        run: npx mocha ./trabalho-final.js
+        run: npx mocha pgtas_programacao_js-trabalho_final_programacao/testes/trabalho-final.js
